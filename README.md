@@ -9,7 +9,7 @@ Template has two applications:
 Web Frontend (using VueJS)
 Restful API (using Python Flask)
 
-# Alternatives
+## Alternatives
 If this setup is not what you are looking for, here are some similar projects:
 
 [gtalarico/flask-vuejs-template] (https://github.com/gtalarico/flask-vuejs-template)
