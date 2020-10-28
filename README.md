@@ -2,7 +2,7 @@
 
 [ArcMentors](https://arcmentors.com/) Web Template is web application template for Startup.
 
-This template allows Startups (Seed or Series A to D fundend) startups to get started quickly for web based application development.
+This template allows startups to get started quickly for web based application development.
 
 Template has two applications:
 
