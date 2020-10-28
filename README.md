@@ -9,6 +9,12 @@ Template has two applications:
 Web Frontend (using VueJS)
 Restful API (using Python Flask)
 
+# Alternatives
+If this setup is not what you are looking for, here are some similar projects:
+
+[gtalarico/flask-vuejs-template] (https://github.com/gtalarico/flask-vuejs-template)
+[oleg-agapov/flask-vue-spa] (https://github.com/oleg-agapov/flask-vue-spa)
+[testdrivenio/flask-vue-crud] (https://github.com/testdrivenio/flask-vue-crud)
 
 # About ArcMentors
 
