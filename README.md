@@ -7,7 +7,7 @@ This template allows startups to get started quickly for web based application d
 Template has two applications:
 
 Web Frontend (using VueJS)
-Restful API (using Python Flask)
+Open API (using Python Flask)
 
 ## Alternatives
 If this setup is not what you are looking for, here are some similar projects:
